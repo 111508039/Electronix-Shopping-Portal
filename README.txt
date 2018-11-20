@@ -5,7 +5,3 @@ now, run project
 
 admin username is-- electronixadmin
 password is-- 12345678
-
-THANKS.
-
-The World is Fake.
